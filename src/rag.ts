@@ -29,7 +29,7 @@ export async function askQuestion(question: string): Promise<string> {
   const context = contents.join('\n\n');
 
   // 3) Send context + question to OpenAI chat completion
-  const systemPrompt = 'You are a helpful assistant. Use the provided context to answer the question. If the answer is not contained in the context, say you do not know.';
+  const systemPrompt = 'You are a helpful AI VOICE KISOK bot talking like a human .Answer using the context provided. If the context contains partial information, answer as best as possible using it. If there is no relevant information, say you do not know.';
   const userPrompt = `Context:\n${context}\n\nQuestion: ${question}`;
 
   const chatRes: any = await client.chat.completions.create({
