@@ -1,0 +1,197 @@
+COMPANY KNOWLEDGE BASE
+
+Company Name: NovaEdge Solutions
+
+
+COMPANY OVERVIEW
+
+NovaEdge Solutions is a technology consulting company specializing in automation, artificial intelligence, and digital transformation for small and mid-sized businesses. The company builds AI-powered systems that automate customer interactions, lead management, reporting, and internal workflows.
+
+Founded in 2021, NovaEdge focuses on helping businesses reduce manual work, improve customer response time, and increase operational efficiency through custom-built automation tools.
+
+Industries served include real estate, healthcare clinics, local service businesses, e-commerce companies, and marketing agencies.
+
+Core philosophy: Automate repetitive work so teams can focus on growth.
+
+
+SERVICES
+
+AI Customer Support Automation
+
+NovaEdge builds AI chat and voice assistants that can respond to customer queries across WhatsApp, website chat, Facebook Messenger, and email.
+
+Capabilities include:
+- answering FAQs
+- booking appointments
+- qualifying leads
+- collecting customer information
+- routing conversations to human agents when necessary
+
+
+Lead Capture and Follow-up Systems
+
+Businesses often lose leads because they do not respond quickly. NovaEdge implements automated lead capture systems that respond instantly.
+
+Features include:
+- automatic replies within seconds
+- lead qualification questions
+- CRM integration
+- automated follow-up sequences
+- reminder messages
+
+
+Workflow Automation
+
+NovaEdge designs automated workflows that remove repetitive administrative tasks.
+
+Examples include:
+- invoice generation
+- appointment reminders
+- report generation
+- internal notifications
+- customer onboarding flows
+
+
+Custom AI Assistants
+
+Companies can deploy private AI assistants trained on their own business data.
+
+These assistants can:
+- answer internal employee questions
+- provide product information
+- guide customers through purchasing decisions
+- assist support teams
+
+The assistants are powered by Retrieval Augmented Generation (RAG) systems that retrieve company knowledge from internal databases.
+
+
+PRODUCTS
+
+LeadFlow Bot
+
+LeadFlow Bot captures website visitors and converts them into qualified leads.
+
+Key features:
+- website chatbot
+- WhatsApp integration
+- automated lead scoring
+- CRM sync
+- lead notification alerts
+
+
+AutoPoster
+
+AutoPoster is a social media automation tool that schedules and posts content automatically across multiple platforms.
+
+Supported platforms:
+- Instagram
+- Facebook
+- LinkedIn
+- Twitter (X)
+
+Benefits:
+- consistent posting
+- content calendar
+- performance analytics
+- hashtag optimization
+
+
+SmartReport Dashboard
+
+SmartReport aggregates data from marketing platforms and creates automated performance reports.
+
+Integrations include:
+- Google Analytics
+- Facebook Ads
+- Google Ads
+- CRM systems
+
+Reports can be delivered weekly or monthly via email.
+
+
+FREQUENTLY ASKED QUESTIONS
+
+What industries does NovaEdge serve?
+
+NovaEdge works with businesses across multiple industries including real estate, healthcare clinics, service businesses, education providers, and e-commerce stores.
+
+
+How long does implementation take?
+
+Typical automation systems take between 1–3 weeks depending on complexity.
+
+
+Do you integrate with existing CRM systems?
+
+Yes. NovaEdge supports integration with major CRM platforms including HubSpot, Zoho CRM, Salesforce, and custom databases.
+
+
+Is training required to use the systems?
+
+Minimal training is required. Most systems are designed to run automatically after initial setup.
+
+
+Can the AI be trained on our company documents?
+
+Yes. AI assistants can be trained on company documents such as PDFs, internal manuals, product catalogs, and website content.
+
+
+PRICING
+
+Starter Plan
+Price: $99 per month
+
+Includes:
+- basic chatbot
+- website integration
+- one automated workflow
+
+
+Growth Plan
+Price: $299 per month
+
+Includes:
+- advanced chatbot
+- CRM integration
+- lead automation
+- analytics dashboard
+
+
+Enterprise Plan
+Price: Custom pricing
+
+Includes:
+- custom AI assistants
+- full workflow automation
+- multi-platform integrations
+- dedicated support
+
+
+CONTACT INFORMATION
+
+Email: support@novaedge.ai
+Phone: +1 555 204 8891
+Website: www.novaedge.ai
+
+Business Hours:
+Monday to Friday
+9:00 AM to 6:00 PM
+
+
+PRODUCT DESCRIPTION
+
+AI Appointment Scheduler
+
+The AI Appointment Scheduler automatically books meetings with customers through chat or voice.
+
+Features include:
+- calendar integration
+- time slot suggestions
+- automatic confirmations
+- reminder notifications
+- rescheduling support
+
+Supported integrations:
+- Google Calendar
+- Outlook Calendar
+- Calendly
