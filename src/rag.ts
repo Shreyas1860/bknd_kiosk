@@ -30,7 +30,7 @@ export async function askQuestion(question: string, sessionId: string): Promise<
   const res: any = await client.chat.completions.create({
     model: 'gpt-4o-mini',
     messages,
-    temperature: 0.2,
+    temperature: 0.1,
     max_tokens: 120,
   });
 
